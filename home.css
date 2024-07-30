@@ -1,0 +1,532 @@
+body {
+    background: #dddcdc;
+}
+
+.head {
+    width: 1600px;
+    height: 45px;
+    background: #474747; 
+    margin: auto;
+}
+.h1menu {
+    margin: auto;
+}
+.number {
+color: #fff;
+margin-left: 160px;
+margin-top: -20px;
+
+}
+.call {
+    margin-top: 13px;
+    margin-left: 140px;
+}
+.conwert {
+    margin-left: 150px;
+}
+.email {
+    margin-top: -35px;
+    color: #fff;
+    margin-left: 335px;
+} 
+.sotsety {
+    margin-left: 1000px;
+    padding-top: 9px;
+}
+
+.namefoot {
+margin-top: -50px;
+margin-left: 180px;
+}
+.logo {
+display: flex;
+gap: 20px;
+
+
+}
+.fon {
+    width: 1600px;
+    height: 802px;
+}
+
+.container {
+    margin: auto;
+    display: flex;
+}
+img {
+    margin: auto;
+}
+.navmenu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 450px 0px 150px;
+    max-width: 1920px;
+    background: #fff;
+
+}
+.nijehead {
+    max-width: 1600px;
+    margin: auto;
+}
+.span {
+    display: flex; 
+    gap: 40px;
+}
+.span a {
+    text-decoration: none;
+    color: black;
+
+}
+a:hover {
+    background-color: #DBDFD0;
+
+}
+
+a {
+    font-size: 16px;
+    font-weight: 500;
+    color: #2C2F24;
+    text-decoration: none;
+    padding: 4px 16px;
+    transition: all 0.3s;
+    border-radius: 34px;
+    /* border-radius: 34px;
+    background-color: #DBDFD0; */
+
+}
+
+.spana {
+    border-radius: 34px;
+    background-color: #DBDFD0;
+}
+
+.conatiner-text-img {
+    max-width: 1600px;
+    margin: auto;
+
+}
+
+.tema {
+    margin-left: 700px;
+    margin-top: -550px;
+}
+.tema2 {
+    margin-left: 720px;
+
+}
+
+.ptag {
+    margin-left: 620px;
+}
+.ptag2 {
+    margin-left: 680px;
+    margin-top: -15px;
+}
+
+.btnbook {
+    margin-left: 620px;
+background: #AD343E;
+width: 163px;
+height: 64px;
+border-radius: 118px;
+border: none;
+color: #fff;
+}
+
+.btnexlore {
+    width: 163px;
+    height: 64px;
+    background: #fff;
+    border-radius: 118px;
+    margin-left: 15px;
+}
+.container2 {
+    width: 1600px;
+    height: 712px;
+    background: #fff;
+    margin: auto;
+    margin-top: 300px;
+
+}
+.h1menu {
+    display: flex;
+justify-content: center;
+padding-top: 92px;
+}
+.card {
+    width: 306px;
+    height: 375px;
+    border: 1px solid gray;
+    margin-left: 152px;
+    border-radius: 10px;
+    margin-top: 125px;
+}
+.card img {
+    margin-top: 40px;
+    margin-left: 103px;
+}
+.card h2 {
+    /* margin-top: 0px; */
+    margin-left: 103px;
+}
+.card p {
+ margin-left: 15px;
+}
+.card button {
+    border: none;
+    background: #fff;
+    color: #AD343E;
+    margin-left: 103px;
+}
+
+.card2 {
+    width: 306px;
+    height: 375px;
+    border: 1px solid gray;
+    margin-left: 152px;
+    border-radius: 10px;
+    margin-top: -376px;
+    margin-left: 482px;
+
+}
+.card2 img {
+    margin-top: 40px;
+    margin-left: 103px;
+}
+.card2 h2 {
+    /* margin-top: 0px; */
+    margin-left: 90px;
+}
+.card2 p {
+ margin-left: 15px;
+}
+.card2 button {
+    border: none;
+    background: #fff;
+    color: #AD343E;
+    margin-left: 103px;
+}
+
+.card3 {
+    width: 306px;
+    height: 375px;
+    border: 1px solid gray;
+    margin-left: 152px;
+    border-radius: 10px;
+    margin-top: -376px;
+    margin-left: 812px;
+
+
+}
+.card3 img {
+    margin-top: 40px;
+    margin-left: 103px;
+}
+.card3 h2 {
+    /* margin-top: 0px; */
+    margin-left: 117px;
+}
+.card3 p {
+ margin-left: 15px;
+}
+.card3 button {
+    border: none;
+    background: #fff;
+    color: #AD343E;
+    margin-left: 103px;
+}
+
+
+.card4 {
+    width: 306px;
+    height: 375px;
+    border: 1px solid gray;
+    margin-left: 152px;
+    border-radius: 10px;
+    margin-top: -376px;
+    margin-left: 1142px;
+}
+.card4 img {
+    margin-top: 40px;
+    margin-left: 103px;
+}
+.card4 h2 {
+    /* margin-top: 0px; */
+    margin-left: 108px;
+}
+.card4 p {
+ margin-left: 15px;
+}
+.card4 button {
+    border: none;
+    background: #fff;
+    color: #AD343E;
+    margin-left: 103px;
+}
+.container3 {
+width: 1600px;
+height: 856px;
+background: #e5e5e5;
+margin: auto;
+}
+.container3 img {
+    margin-left: 140px;
+    margin-top: 120px;
+    border-radius: 20px;
+}
+
+.h1cont3 {
+    margin-left: 1000px;
+    margin-top: -530px;
+}
+.h1cont3-2 {
+    margin-left: 1000px;
+    margin-top: -20px;
+}
+
+.container3 p {
+    margin-left: 1000px;
+    margin-top: -8px;
+}
+.drugoip {
+    margin-left: 1000px;
+color: gray;
+
+}
+
+.container3 button {
+    width: 179px;
+    height: 64px;
+    border-radius: 118px;
+padding:  32px, 20px, 32px;
+background: #e5e5e5;
+margin-top: 30px;
+margin-left: 1000px;
+}
+
+.container4 {
+    width: 1600px;
+    height: 1117px;
+    background: #ececec;
+    margin: auto;
+    margin-top: -20px;
+}
+
+.container4 h1 {
+    padding-top: 121px;
+    margin-left: 152px;
+}
+.container4 img {
+    margin-left: 152px;
+    margin-top: 15px;
+}
+
+.cont4card {
+    width: 636px;
+    height: 270px;
+    background: #fff;
+    margin-left: 152px;
+    margin-top: -5px;
+    border-radius: 0px 0px 10px 10px;
+}
+
+.cont4card h6 {
+    color: gray;
+    margin-left: 35px;
+    margin-top: -0px;
+    padding-top: 35px;
+}
+
+.cont4card p {
+    margin-left: 35px;
+}
+.cont4p {
+    color: gray;
+}
+.cont4card2 {
+    margin-left: 660px;
+    margin-top: -739px;
+}
+.cont4mini {
+    width: 306px;
+    height: 150px;
+    background: #fff;
+    margin-left: 152px;
+    margin-top: -29px;
+    border-radius: 0px 0px 15px 15px;
+}
+.cont4mini h6 {
+    color: gray;
+    margin-left: 24px;
+padding-top: 30px;
+}
+.cont4mini p {
+    margin-left: 24px;
+
+}
+.cont4card3 {
+    margin-left: 330px;
+    margin-top: -365px;
+
+}
+.cont4mini2 {
+        width: 306px;
+        height: 150px;
+        background: #fff;
+        margin-left: 482px;
+        margin-top: -29px;
+        border-radius: 0px 0px 15px 15px;
+}
+.cont4mini2 h6 {
+    color: gray;
+    margin-left: 24px;
+padding-top: 30px;
+}
+.cont4mini2 p {
+    margin-left: 24px;
+
+}
+
+.cont4mini3 {
+    width: 306px;
+    height: 150px;
+    background: #fff;
+    margin-left: 152px;
+    margin-top: -29px;
+    border-radius: 0px 0px 15px 15px;
+}
+.cont4mini3 h6 {
+color: gray;
+margin-left: 24px;
+padding-top: 30px;
+}
+.cont4mini3 p {
+margin-left: 24px;
+
+}
+
+.cont4mini4 {
+    width: 306px;
+    height: 150px;
+    background: #fff;
+    margin-left: 482px;
+    margin-top: -29px;
+    border-radius: 0px 0px 15px 15px;
+}
+.cont4mini4 h6 {
+color: gray;
+margin-left: 24px;
+padding-top: 30px;
+}
+.cont4mini4 p {
+margin-left: 24px;
+
+}
+.cont4card5 {
+    margin-left: 330px;
+    margin-top: -365px;
+
+}
+
+footer {
+    background: #474747;
+    width: 1600px;
+    height: 778px;
+    margin: auto;
+}
+
+.riad1 img {
+    margin-left: 152px;
+    padding-top: 122px;
+}
+.riad1 h1 {
+    margin-left: 221px;
+    margin-top: -43px;
+    color: #fff;
+}
+.riad1 p {
+    color: gray;
+    margin-left: 152px;
+    margin-top: -15px;
+}
+.socialfoot {
+    margin-top: -107px;
+}
+.riad2 h4 {
+    color: #fff;
+    margin-left: 580px;
+    margin-top: -180px;
+}
+.riad2 p {
+    color: rgb(163, 163, 163);
+    margin-left: 580px;
+}
+
+.riad3 h4 {
+margin-left: 820px;
+margin-top: -280px;
+}
+
+
+.riad3 p {
+    color: rgb(163, 163, 163);
+    margin-left: 820px;
+}
+
+.footp {
+    color: #b3b3b3;
+display: flex;
+justify-content: center;
+padding-top: 260px;
+}
+
+
+.burger {
+    width: 636px;
+    height: 460px;
+    border-radius: 20px 20px 0px 0px;
+}
+.potfrie {
+    width: 305px;
+    border-radius: 20px 20px 0px 0px;
+}
+.kfs {
+    border-radius: 20px 20px 0px 0px;
+    width: 305px;
+    height: 200px;
+}
+.cakes {
+    border-radius: 20px 20px 0px 0px;
+    width: 305px;
+    height: 200px;
+}
+.pizzaimg {
+    border-radius: 20px 20px 0px 0px;
+    width: 305px;
+    height: 200px;
+}
+
+.cardshaurma {
+    width: 411px;
+    height: 321px;
+    background: #474747;
+    margin-left: 400px;
+    margin-top: -260px;
+    border-radius: 20px;
+    position: relative;
+    z-index: 2;
+}
+
+.cardshaurma h3 {
+    color: #fff;
+    margin-left: 53px;
+    padding-top: 50px;
+}
+
+.cardh6 {
+    /* padding-top: 50px; */
+    margin-left: 53px;
+    color: #fff;
+    padding-top: 30px;
+}
